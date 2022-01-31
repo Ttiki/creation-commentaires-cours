@@ -1,0 +1,23 @@
+{
+    "HeaderComment" : {
+        "prefix" : "ccc",
+        "body" : [
+            "BLOCK_COMMENT_START",
+            "$LINE_COMMENT Classe : ${1:class} ",
+            "$LINE_COMMENT @author: ${2:author}",
+            "$LINE_COMMENT @date : $CURRENT_DAY_NAME_SHORT $CURRENT_DATE $CURRENT_MONTH_NAME_SHORT $CURRENT_YEAR",
+            "$LINE_COMMENT Licence : ${3:license}",
+            "$BLOCK_COMMENT_END",
+
+            "$LINE_COMMENT ATTRIBUT - non -",
+            "$LINE_COMMENT CONSTRUCTEUR singleton - non -",
+            "$LINE_COMMENT METHODES D'ENCAPSULATION - non -",
+            "$LINE_COMMENT CONSTANTES - non -",
+            "$LINE_COMMENT ATTRIBUTS - non -",
+            "$LINE_COMMENT METHODES D'ENCAPSULATION - non -",
+            "$LINE_COMMENT METHODES USUELLES - non -",
+            "$LINE_COMMENT METHODES SPECIFIQUES - non -",
+        ],
+        "description" : "Create the default comment structure for code and scripts ",
+    },
+}
