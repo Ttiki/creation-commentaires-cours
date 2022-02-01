@@ -1,0 +1,21 @@
+'.source.java':
+  'ccc':
+    'prefix': 'ccc'
+    'body': """
+      /*
+      * Classe : ${1:class}
+      * @author: ${2:author}
+      @date : ${3:date}
+      Licence : ${4:license}
+      */
+
+      // ATTRIBUT - non -
+      // CONSTRUCTEUR singleton - non -
+      // METHODES D'ENCAPSULATION - non -
+      // CONSTANTES - non -
+      // ATTRIBUTS - non -
+      // METHODES D'ENCAPSULATION - non -
+      // METHODES USUELLES - non -
+      // METHODES SPECIFIQUES - non -
+    """
+    'description' : 'Créer automatiquement la liste des commentaires pour vos codes'

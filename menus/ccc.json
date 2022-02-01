@@ -1,0 +1,26 @@
+{
+  "context-menu": {
+    "atom-text-editor": [
+      {
+        "label": "Toggle ccc",
+        "command": "ccc:toggle"
+      }
+    ]
+  },
+  "menu": [
+    {
+      "label": "Packages",
+      "submenu": [
+        {
+          "label": "ccc",
+          "submenu": [
+            {
+              "label": "Toggle",
+              "command": "ccc:toggle"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

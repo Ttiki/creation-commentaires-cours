@@ -1,18 +1,18 @@
 {
-    "name": "ccc",
-    "displayName": "code-comments-cours",
-    "description": "Put default comments (useful for University's courses)",
-    "version": "1.0.0",
-    "engines": {
-        "vscode": "^1.63.0"
-    },
-    "categories": [
-        "Snippets"
-    ],
-    "contributes": {
-        "snippets": [{
-            "language": "",
-            "path": "./snippets/snippets.code-snippets"
-        }]
-    }
+  "name": "ccc",
+  "main": "./lib/ccc",
+  "version": "0.0.0",
+  "description": "Ajout un code boiler plate avec tous les commentaires, très utile pour les cours",
+  "keywords": [
+  ],
+  "activationCommands": {
+    "atom-workspace": "ccc:Toggle"
+  },
+  "repository": "https://github.com/Ttiki/ccc-0.0.1",
+  "license": "MIT",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  },
+  "dependencies": {
+  }
 }
