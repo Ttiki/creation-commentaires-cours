@@ -7,7 +7,7 @@ Cette extension permet d'automatiquement créer un code boiler plate avec tous l
 Le code boiler plate n'est uniquement utilisable avec :
 - Java
 
-![feature](./media/feature.gif)
+![feature](./media/feature-atom.gif)
 
 
 ## Requirements
