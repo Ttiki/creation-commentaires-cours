@@ -9,7 +9,7 @@ Le code boiler plate s'adapte automatiquement au langage que vous utilisez !
 
 Et la date se complète automatiquement, selon la date de votre PC.
 
-![feature](./media/feature.gif)
+![feature](./media/feature-vscode.gif)
 
 
 ## Requirements
