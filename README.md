@@ -5,24 +5,21 @@ Cette extension permet d"automatiquement creéer un code boiler plate avec tous 
 
 ## Features
 
-Describe specific features of your extension including screenshots of your extension in action. Image paths are relative to this README file.
+Le code boiler plate s'adapte automatiquement au langage que vous utilisez! 
+Et la date se complète autoamtiquement selon la date de votre PC.
 
-For example if there is an image subfolder under your extension project workspace:
+![feature](./media/feature.gif)
 
-\!\[feature X\]\(images/feature-x.png\)
-
-> Tip: Many popular extensions utilize animations. This is an excellent way to show off your extension! We recommend short, focused animations that are easy to follow.
 
 ## Requirements
 
 Cette extesnion est disponible pour les éditeurs suivants:
 - [x] Visual Studio Code
-- [] Atom
-- 
+- [ ] Atom
 
 #### Installation
 Pour installer cette extension Visual Studio Code, téléchargez le zip ci-dessous, dézippez le et déposez-le dans le dossier :
-**.vscode\extensions** (ce dossier se trouve généralement dans le dossier utilisateur _sous windows_)
+**<user>.vscode\extensions**
 Relancez Visual Studio Code. Pour créer le code boiler plate, écrivez juste `ccc`, une autosuggestion vscode _ccc_ vas apparaître, appuyez sur entrée et c'est tout.
 
 
