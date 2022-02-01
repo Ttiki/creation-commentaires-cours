@@ -5,9 +5,6 @@
   "description": "Ajout un code boiler plate avec tous les commentaires, très utile pour les cours",
   "keywords": [
   ],
-  "activationCommands": {
-    "atom-workspace": "ccc:Toggle"
-  },
   "repository": "https://github.com/Ttiki/ccc-0.0.1",
   "license": "MIT",
   "engines": {
