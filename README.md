@@ -1,27 +1,44 @@
 # Création automatique des Commentaires pour les Cours (ccc)
+Cette extension permet d'automatiquement créer un code boiler plate avec tous les commentaires à mettre pour les codes (notamment java) pour les cours.
+Installer l'installation et tapez ccc, une autosuggestion devrait apparaître, appuyez sur entrée, le code boiler plate apparaît !
 
-Cette extension permet d'automatiquement créer un code boiler plate avec tous les commentaires à mettre pour les codes (notamment java) pour les cours. Installer l'installation et tapez ccc, une autosuggestion devrait apparaître, appuyez sur entrée, le code boiler plate apparaît !
-
+Cette extension permet d'automatiquement créer un code boiler plate avec tous les commentaires à mettre pour vos codes java. Installer l'installation et tapez ccc, une autosuggestion devrait apparaître, appuyez sur entrée, le code boiler plate apparaît !
 
 ## Features
 
-Le code boiler plate s'adapte automatiquement au langage que vous utilisez !
 
+### Visual Studio Code
+Le code boiler plate s'adapte automatiquement au langage que vous utilisez !
 Et la date se complète automatiquement, selon la date de votre PC.
 
 ![feature](./media/feature-vscode.gif)
 
+### Atom
+Le code boiler plate n'est uniquement utilisable avec :
+- Java
+
+![feature](./media/feature-atom.gif)
+
+
 
 ## Requirements
 
-Cette extesnion est disponible pour les éditeurs suivants:
+Cette extension est disponible pour les éditeurs suivants:
 - [x] Visual Studio Code
 - [x] Atom
 
-#### Installation
-Pour installer cette extension Visual Studio Code, téléchargez le zip ci-dessous, dézippez le et déposez-le dans le dossier :
+
+## Installation
+
+### Visual Studio Code
+Pour installer cette extension, [téléchargez le zip de la dernière release](https://github.com/Ttiki/ccc-0.0.1/releases), dézippez le et déposez-le dans le dossier :
 **<user>.vscode\extensions**
 Relancez Visual Studio Code. Pour créer le code boiler plate, écrivez juste `ccc`, une autosuggestion vscode _ccc_ vas apparaître, appuyez sur entrée et c'est tout.
+  
+### Atom 
+Pour installer cette extension, [téléchargez le zip de la dernière release](https://github.com/Ttiki/ccc-0.0.1/releases), dézippez le et déposez-le dans le dossier :
+**<user>.atom\packages**
+Relancez Atom. Pour créer le code boiler plate, écrivez juste `ccc`, une autosuggestion vscode _ccc_ vas apparaître, appuyez sur entrée et c'est tout.
 
 
 ## Release Notes

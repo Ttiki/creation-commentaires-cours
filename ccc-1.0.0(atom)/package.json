@@ -1,0 +1,15 @@
+{
+  "name": "ccc",
+  "main": "./lib/ccc",
+  "version": "0.0.0",
+  "description": "Ajout un code boiler plate avec tous les commentaires, très utile pour les cours",
+  "keywords": [
+  ],
+  "repository": "https://github.com/Ttiki/ccc-0.0.1",
+  "license": "MIT",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  },
+  "dependencies": {
+  }
+}
