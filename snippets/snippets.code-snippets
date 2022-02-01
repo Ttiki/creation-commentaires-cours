@@ -2,11 +2,11 @@
     "HeaderComment" : {
         "prefix" : "ccc",
         "body" : [
-            "BLOCK_COMMENT_START",
-            "$LINE_COMMENT Classe : ${1:class} ",
-            "$LINE_COMMENT @author: ${2:author}",
-            "$LINE_COMMENT @date : $CURRENT_DAY_NAME_SHORT $CURRENT_DATE $CURRENT_MONTH_NAME_SHORT $CURRENT_YEAR",
-            "$LINE_COMMENT Licence : ${3:license}",
+            "$BLOCK_COMMENT_START",
+            "* Classe : ${1:class} ",
+            "* @author: ${2:author}",
+            "* @date : $CURRENT_DAY_NAME_SHORT $CURRENT_DATE $CURRENT_MONTH_NAME_SHORT $CURRENT_YEAR",
+            "* Licence : ${3:license}",
             "$BLOCK_COMMENT_END",
 
             "$LINE_COMMENT ATTRIBUT - non -",

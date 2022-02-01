@@ -6,4 +6,8 @@ Check [Keep a Changelog](http://keepachangelog.com/) for recommendations on how 
 
 ## [Unreleased]
 
-- Initial release
+## [1.0.0] - 2022-02-01
+### Added
+- Code suggestion
+- Boiler plate code
+- Default comments

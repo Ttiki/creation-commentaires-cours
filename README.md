@@ -1,6 +1,7 @@
-# ccc README
+# Création automatique des Commentaires pour les Cours (ccc)
 
-This is the README for your extension "ccc". After writing up a brief description, we recommend including the following sections.
+Cette extension permet d"automatiquement creéer un code boiler plate avec tous les commentaires à mettre pour les codes (notammment java) pour les cours. Installer l'installation et tapez ccc, une autosuggestion devrait apparaître, appuez sur entrée, le code boiler plate apparaît!
+
 
 ## Features
 
@@ -14,52 +15,20 @@ For example if there is an image subfolder under your extension project workspac
 
 ## Requirements
 
-If you have any requirements or dependencies, add a section describing those and how to install and configure them.
+Cette extesnion est disponible pour les éditeurs suivants:
+- [x] Visual Studio Code
+- [] Atom
+- 
 
-## Extension Settings
+#### Installation
+Pour installer cette extension Visual Studio Code, téléchargez le zip ci-dessous, dézippez le et déposez-le dans le dossier :
+**.vscode\extensions** (ce dossier se trouve généralement dans le dossier utilisateur _sous windows_)
+Relancez Visual Studio Code. Pour créer le code boiler plate, écrivez juste `ccc`, une autosuggestion vscode _ccc_ vas apparaître, appuyez sur entrée et c'est tout.
 
-Include if your extension adds any VS Code settings through the `contributes.configuration` extension point.
-
-For example:
-
-This extension contributes the following settings:
-
-* `myExtension.enable`: enable/disable this extension
-* `myExtension.thing`: set to `blah` to do something
-
-## Known Issues
-
-Calling out known issues can help limit users opening duplicate issues against your extension.
 
 ## Release Notes
 
-Users appreciate release notes as you update your extension.
-
 ### 1.0.0
 
-Initial release of ...
-
-### 1.0.1
-
-Fixed issue #.
-
-### 1.1.0
-
-Added features X, Y, and Z.
-
------------------------------------------------------------------------------------------------------------
-
-## Working with Markdown
-
-**Note:** You can author your README using Visual Studio Code.  Here are some useful editor keyboard shortcuts:
-
-* Split the editor (`Cmd+\` on macOS or `Ctrl+\` on Windows and Linux)
-* Toggle preview (`Shift+CMD+V` on macOS or `Shift+Ctrl+V` on Windows and Linux)
-* Press `Ctrl+Space` (Windows, Linux) or `Cmd+Space` (macOS) to see a list of Markdown snippets
-
-### For more information
-
-* [Visual Studio Code's Markdown Support](http://code.visualstudio.com/docs/languages/markdown)
-* [Markdown Syntax Reference](https://help.github.com/articles/markdown-basics/)
-
-**Enjoy!**
+Ajoute un boiler plate code avec tous les commentaires à mettre (CONSTANTES, ATTRIBUTS, etc.) et ajoute un en-tête avec les informations comme la classe, l'auteur, etc.
+S'adapte au langage utilisé (pour les commentaires).

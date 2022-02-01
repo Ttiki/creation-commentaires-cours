@@ -2,7 +2,7 @@
     "name": "ccc",
     "displayName": "code-comments-cours",
     "description": "Put default comments (useful for University's courses)",
-    "version": "0.0.1",
+    "version": "1.0.0",
     "engines": {
         "vscode": "^1.63.0"
     },
@@ -10,11 +10,9 @@
         "Snippets"
     ],
     "contributes": {
-        "snippets": [
-            {
-                "language": "",
-                "path": "./snippets/snippets.code-snippets"
-            }
-        ]
+        "snippets": [{
+            "language": "",
+            "path": "./snippets/snippets.code-snippets"
+        }]
     }
 }
