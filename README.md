@@ -2,6 +2,10 @@
 
 Ajoute un boiler plate code avec tous les commentaires à mettre (CONSTANTES, ATTRIBUTS, etc.) et ajoute un en-tête avec les informations comme la classe, l'auteur, etc.
 
+[![MIT Licence](https://img.shields.io/github/license/ttiki/creation-commentaires-cours)](https://github.com/Ttiki/creation-commentaires-cours/blob/master/LICENSE.md)
+[![Latest version](https://img.shields.io/github/v/tag/Ttiki/creation-commentaires-cours)](https://github.com/Ttiki/creation-commentaires-cours/releases)
+[![Downloads](https://img.shields.io/github/downloads/Ttiki/creation-commentaires-cours/total)](https://github.com/Ttiki/creation-commentaires-cours/releases)
+
 #### Visual Studio Code
 La version Visual Studio Code inclus : 
 - Le champ "**Date**" se rempli automatiquement
