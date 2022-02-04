@@ -5,6 +5,10 @@ Ajoute un boiler plate code avec tous les commentaires à mettre (CONSTANTES, AT
 [![MIT Licence](https://img.shields.io/github/license/ttiki/creation-commentaires-cours)](https://github.com/Ttiki/creation-commentaires-cours/blob/master/LICENSE.md)
 [![Latest version](https://img.shields.io/github/v/tag/Ttiki/creation-commentaires-cours)](https://github.com/Ttiki/creation-commentaires-cours/releases)
 [![Downloads](https://img.shields.io/github/downloads/Ttiki/creation-commentaires-cours/total)](https://github.com/Ttiki/creation-commentaires-cours/releases)
+[![Open Issue](https://img.shields.io/github/issues-raw/Ttiki/creation-commentaires-cours)](https://github.com/Ttiki/creation-commentaires-cours/issues)
+![Open PR](https://img.shields.io/github/issues-pr-raw/Ttiki/creation-commentaires-cours)](https://github.com/Ttiki/creation-commentaires-cours/pulls)
+
+
 
 #### Visual Studio Code
 La version Visual Studio Code inclus : 
