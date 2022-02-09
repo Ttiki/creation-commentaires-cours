@@ -1,16 +1,21 @@
-# Création automatique des Commentaires pour les Cours (ccc)
-Cette extension permet d'automatiquement créer un code boiler plate avec tous les commentaires à mettre pour les codes (notamment java) pour les cours.
-Installer l'installation et tapez ccc, une autosuggestion devrait apparaître, appuyez sur entrée, le code boiler plate apparaît !
+### Création automatique des Commentaires pour les Cours - v2.0.0
 
-Cette extension permet d'automatiquement créer un code boiler plate avec tous les commentaires à mettre pour vos codes java. Installer l'installation et tapez ccc, une autosuggestion devrait apparaître, appuyez sur entrée, le code boiler plate apparaît !
+Ajoute un boiler plate code avec tous les commentaires à mettre (CONSTANTES, ATTRIBUTS, etc.) et ajoute un en-tête avec les informations comme la classe, l'auteur, etc.
+
+[![MIT Licence](https://img.shields.io/github/license/ttiki/creation-commentaires-cours)](https://github.com/Ttiki/creation-commentaires-cours/blob/master/LICENSE.md)
+[![Latest version](https://img.shields.io/github/v/tag/Ttiki/creation-commentaires-cours)](https://github.com/Ttiki/creation-commentaires-cours/releases)
+[![Downloads](https://img.shields.io/github/downloads/Ttiki/creation-commentaires-cours/total)](https://github.com/Ttiki/creation-commentaires-cours/releases)
+[![Open Issue](https://img.shields.io/github/issues-raw/Ttiki/creation-commentaires-cours)](https://github.com/Ttiki/creation-commentaires-cours/issues)
+[![Open PR](https://img.shields.io/github/issues-pr-raw/Ttiki/creation-commentaires-cours)](https://github.com/Ttiki/creation-commentaires-cours/pulls)
+
 
 ## Features
+
+#### Atom
 Le code boiler plate n'est uniquement utilisable avec :
 - Java
 
 ![feature](./media/feature-atom.gif)
-
-
 
 ## Requirements
 
@@ -40,24 +45,3 @@ L'extension pour Atom est maintenant disponible
 
 Ajoute un boiler plate code avec tous les commentaires à mettre (CONSTANTES, ATTRIBUTS, etc.) et ajoute un en-tête avec les informations comme la classe, l'auteur, etc.
 S'adapte au langage utilisé (pour les commentaires).
-
-
-# Change Log
-
-All notable changes to the "ccc" extension will be documented in this file.
-
-## [Unreleased]
-
-## [2.0.0] - 2022-02-01
-### Added
-- Atom extension
-
-### Removed
-- Auto date pour l'extension Atom uniquement
-
-## [1.0.0] - 2022-02-01
-### Added
-- Code suggestion
-- Boiler plate code
-- Default comments
-- Auto date fill
