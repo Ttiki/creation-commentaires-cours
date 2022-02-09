@@ -9,31 +9,13 @@ Ajoute un boiler plate code avec tous les commentaires à mettre (CONSTANTES, AT
 [![Open PR](https://img.shields.io/github/issues-pr-raw/Ttiki/creation-commentaires-cours)](https://github.com/Ttiki/creation-commentaires-cours/pulls)
 
 
-
-#### Visual Studio Code
-La version Visual Studio Code inclus : 
-- Le champ "**Date**" se rempli automatiquement
-- L'extension change elle-même la syntaxe des commentaires pour s'adapter au langage utilisé.
-
-#### Atom
-La version Atom n'a pas les avantages de la version pour Visual Studio Code ci-dessus.
-
-
 ## Features
 
-### Visual Studio Code
-Le code boiler plate s'adapte automatiquement au langage que vous utilisez !
-Et la date se complète automatiquement, selon la date de votre PC.
-
-![feature](./media/feature-vscode.gif)
-
-### Atom
+#### Atom
 Le code boiler plate n'est uniquement utilisable avec :
 - Java
 
 ![feature](./media/feature-atom.gif)
-
-
 
 ## Requirements
 
@@ -44,18 +26,16 @@ Cette extension est disponible pour les éditeurs suivants:
 
 ## Installation
 
-### Visual Studio Code
-Pour installer cette extension, [téléchargez le zip de la dernière release](https://github.com/Ttiki/ccc-0.0.1/releases), dézippez le et déposez-le dans le dossier :
-**<user>.vscode\extensions**
-Relancez Visual Studio Code. Pour créer le code boiler plate, écrivez juste `ccc`, une autosuggestion vscode _ccc_ vas apparaître, appuyez sur entrée et c'est tout.
-  
-### Atom 
 Pour installer cette extension, [téléchargez le zip de la dernière release](https://github.com/Ttiki/ccc-0.0.1/releases), dézippez le et déposez-le dans le dossier :
 **<user>.atom\packages**
 Relancez Atom. Pour créer le code boiler plate, écrivez juste `ccc`, une autosuggestion vscode _ccc_ vas apparaître, appuyez sur entrée et c'est tout.
 
 
 ## Release Notes
+
+### 2.1.0
+
+Nouveaux commentaires disponibles et quelques fixes des anciens commentaires. 
 
 ### 2.0.0
 
