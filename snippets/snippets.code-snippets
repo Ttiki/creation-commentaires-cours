@@ -2,21 +2,35 @@
     "HeaderComment" : {
         "prefix" : "ccc",
         "body" : [
+            /**
+            * Classe : ComposantDeBase
+            * Objectif : Montrer un cas théorique du Patron de Conception Décorateur
+            * @version 1.0
+            * @author Lopistéguy Philippe
+            * @date jj/mm/aa
+            **/
             "$BLOCK_COMMENT_START",
             "* Classe : ${1:class} ",
-            "* @author: ${2:author}",
+            "* Objectif : ${2:objectifs}",
+            "* @Version : ${3:version}",
+            "* @author : ${4:author}",
             "* @date : $CURRENT_DAY_NAME_SHORT $CURRENT_DATE $CURRENT_MONTH_NAME_SHORT $CURRENT_YEAR",
             "* Licence : ${3:license}",
             "$BLOCK_COMMENT_END",
 
-            "$LINE_COMMENT ATTRIBUT - non -",
-            "$LINE_COMMENT CONSTRUCTEUR singleton - non -",
-            "$LINE_COMMENT METHODES D'ENCAPSULATION - non -",
-            "$LINE_COMMENT CONSTANTES - non -",
-            "$LINE_COMMENT ATTRIBUTS - non -",
-            "$LINE_COMMENT METHODES D'ENCAPSULATION - non -",
-            "$LINE_COMMENT METHODES USUELLES - non -",
-            "$LINE_COMMENT METHODES SPECIFIQUES - non -",
+            // CONSTANTES 				-non-
+            // ATTRIBUTS 				-non-
+            // CONSTRUCTEURS 			-non-
+            // METHODES D'ENCAPSULATION -non-
+            // METHODES USUELLES 		-non-
+
+            // METHODE SPECIFIQUE
+            "$LINE_COMMENT CONSTANTES               -non-",
+            "$LINE_COMMENT ATTRIBUTS                -non-",
+            "$LINE_COMMENT CONSTRUCTEURS            -non-",
+            "$LINE_COMMENT  METHODES USUELLES       -non-",
+            "$LINE_COMMENT",
+            "$LINE_COMMENT METHODE SPECIFIQUE"
         ],
         "description" : "Create the default comment structure for code and scripts ",
     },
