@@ -2,12 +2,15 @@
   'ccc':
     'prefix': 'ccc'
     'body': """
-      /*
-      * Classe : ${1:class}
-      * @author: ${2:author}
-      @date : ${3:date}
-      Licence : ${4:license}
-      */
+          /**
+      * Classe :  ${1:class}
+      * Objectif : {2:objectif}
+      * @version ${3:version}
+      * @author ${4:author}
+      * @date ${5:date}
+      * Licence : ${6:license}
+      **/
+
 
       // ATTRIBUT - non -
       // CONSTRUCTEUR singleton - non -
