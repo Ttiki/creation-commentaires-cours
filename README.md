@@ -26,6 +26,10 @@ Relancez Visual Studio Code. Pour créer le code boiler plate, écrivez juste `c
 
 ## Release Notes
 
+### 2.1.0
+
+Nouveaux commentaires disponibles et quelques fixes des anciens commentaires.
+
 ### 2.0.0
 
 L'extension pour Atom est maintenant disponible
